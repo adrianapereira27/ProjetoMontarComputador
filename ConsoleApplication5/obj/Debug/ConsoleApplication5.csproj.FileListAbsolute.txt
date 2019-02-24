@@ -1,0 +1,20 @@
+c:\users\i3i\documents\visual studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\i3i\Documents\Visual Studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+E:\Projetos Visual Studio\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojAssemblyReference.cache
+E:\Projetos Visual Studio\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csproj.CoreCompileInputs.cache
+E:\Projetos Visual Studio\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+E:\Projetos Visual Studio\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+E:\Projetos Visual Studio\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+E:\Projetos Visual Studio\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+E:\Projetos Visual Studio\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\perei\source\repos\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\perei\source\repos\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\perei\source\repos\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\perei\source\repos\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojAssemblyReference.cache
+C:\Users\perei\source\repos\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csproj.CoreCompileInputs.cache
+C:\Users\perei\source\repos\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\perei\source\repos\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
